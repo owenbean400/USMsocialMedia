@@ -1,3 +1,6 @@
 [submodule "USMSocialSpring"]
 	path = USMSocialSpring
 	url = https://github.com/myattaw/USMSocialSpring.git
+[submodule "USMSocialFrontEnd"]
+	path = USMSocialFrontEnd
+	url = https://github.com/owenbean400/USMSocialMediaFrontEnd.git
