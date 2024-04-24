@@ -1,5 +1,7 @@
 # USM Social Media Webpage
 
+The USM Social Media webpage is a full stack application developed for software engineering class as a school project.
+
 ## Live Sites
 
 USM Social Media Website: [https://www.mainecollege.tech/](https://www.mainecollege.tech/)
