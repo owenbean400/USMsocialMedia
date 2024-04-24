@@ -3,11 +3,13 @@
 ## Live Sites
 
 USM Social Media Website: [https://www.mainecollege.tech/](https://www.mainecollege.tech/)
+
 USM Social Media Backend: [https://api.mainecollege.tech/](https://api.mainecollege.tech/)
 
 ## Repository
 
 [Front End Code](https://github.com/owenbean400/USMSocialMediaFrontEnd)
+
 [Back End Code](https://github.com/myattaw/USMSocialSpring)
 
 ## Documentation
